@@ -1,3 +1,6 @@
 pandas
 openpyxl
 unidecode
+zipfile
+geopandas
+topojson
